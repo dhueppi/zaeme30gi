@@ -34,7 +34,6 @@ feli undm domi fiired ihre geburi
 ### Mittwoch 26.02.2025
 - Anzahl Personen: 3
 - Abend-Menü: Kein Abendessen
-   - [ ] 
 
 ### Donnerstag 27.02.2025
 - Anzahl Personen: 7
