@@ -5,7 +5,7 @@ feli und domi fiired ihre geburi
 ### Samstag 22.02.2025
 - Anzahl Personen: 25
 - Abend-Menü: Spaghetti Plausch
-    - [x] 3 kg - Spaghetti
+    - [ ] 3 kg - Spaghetti
     - [ ] 1 kg - Parmesan
     - [ ] Tomatensauce
     - [ ] Pestosauce
