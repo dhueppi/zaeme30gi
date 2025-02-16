@@ -6,26 +6,41 @@ feli undm domi fiired ihre geburi
 - Anzahl Personen: 25
 - Abend-Menü: Spaghetti Plausch
     - [ ] 3 kg - Spaghetti
+    - [ ] 1 kg - Reibkäse
+    - [ ] Tomatensauce
+    - [ ] Pestosauce
+    - [ ] chinquePsauce
 
 ### Sonntag 23.02.2025
 - Anzahl Personen: 28
-- Abend-Menü:
+- Abend-Menü: Fondue
+    - [ ] 6 kg Fonduekäse
+    - [ ] 6 kg Brot
 
 ### Montag 24.02.2025
 - Anzahl Personen: 14
-- Abend-Menü:
+- Abend-Menü: Risotto
+    - [ ] Safranrisotto
+    - [ ] Steinpilrisotto
+    - [ ] Tomatenrisotto
   
 ### Dienstag 25.02.2025
 - Anzahl Personen: 7
-- Abend-Menü:
+- Abend-Menü: Grillabend
+    - [ ] Grillzeugs
+    - [ ] Chips
+    - [ ] Brot
   
 ### Mittwoch 26.02.2025
 - Anzahl Personen: 3
-- Abend-Menü:
+- Abend-Menü: Kein Abendessen
+   - [ ] 
 
 ### Donnerstag 27.02.2025
 - Anzahl Personen: 7
-- Abend-Menü:
+- Abend-Menü: Älplermakkronen
+   - [ ] 1 kg Makkronen
+   - [ ] 1 kg Gummel
 
 ### Freitag 28.02.2025
 - Anzahl Personen: 15
