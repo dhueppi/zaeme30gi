@@ -4,7 +4,8 @@ feli undm domi fiired ihre geburi
 ## Wochenplanung
 ### Samstag 22.02.2025
 - Anzahl Personen: 25
-- Abend-Menü: 
+- Abend-Menü: Spaghetti Plausch
+    - [ ] 3 kg - Spaghetti
 
 ### Sonntag 23.02.2025
 - Anzahl Personen: 28
