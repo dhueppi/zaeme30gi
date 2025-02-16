@@ -1,6 +1,10 @@
 # zaeme30gi
 feli und domi fiired ihre geburi
 
+## ToDos
+- Tiefkühltruhe 
+- Schlüsselübergabe
+
 ## Wochenplanung
 ### Samstag 22.02.2025
 - Anzahl Personen: 25
