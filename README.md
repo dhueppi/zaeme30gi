@@ -1,5 +1,5 @@
 # zaeme30gi
-feli undm domi fiired ihre geburi
+feli und domi fiired ihre geburi
 
 ## Wochenplanung
 ### Samstag 22.02.2025
