@@ -121,4 +121,35 @@ feli und domi fiired ihre geburi
 
 ---
 
+## Zmorge für 30ig Leute
+- [ ] Yogurt
+- [ ] Konfi
+- [ ] Cornflakes
+- [ ] Butter
+- [ ] UHT Milch
+- [ ] Cacaoupulver
+- [ ] Kaffepulver
+- [ ] ...
+
+## Getränke und Party
+- [ ] 100 Bier
+- [ ] 5 Aperol
+- [ ] 5 Prosseco
+- [ ] 3 Kräuter
+- [ ] 2 Williams
+- [ ] 3 Cointrau
+- [ ] 3 Martini
+- [ ] 2 Cognac
+- [ ] 2 Tequila
+- [ ] 2 Vodka
+- [ ] 4 Tomatensaft
+- [ ] Sellerie
+- [ ] Worchestersauce
+- [ ] Zitronen
+- [ ] Limetten
+- [ ] Nüssli
+- [ ] Chips
+- [ ] Snacks
+- [ ] ...
+
 ## Material
