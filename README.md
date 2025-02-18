@@ -137,8 +137,8 @@ feli und domi fiired ihre geburi
 
 ## Getränke und Party
 - [ ] 100 Bier
-- [ ] 5 Aperol
-- [ ] 5 Prosseco
+- [ ] 5 Aperol   < Landi
+- [ ] 5 Prosseco < Landi
 - [ ] 3 Kräuter
 - [ ] 2 Williams
 - [ ] 3 Cointrau
@@ -155,5 +155,8 @@ feli und domi fiired ihre geburi
 - [ ] Chips
 - [ ] Snacks
 - [ ] ...
+- [ ] WC Papier 
+- [ ] Küchenpapier 
+- [ ] Abfallsäcke
 
 ## Material
