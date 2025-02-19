@@ -157,6 +157,12 @@ feli und domi fiired ihre geburi
 - [ ] ...
 - [ ] WC Papier 
 - [ ] Küchenpapier 
-- [ ] Abfallsäcke
+- [x] Abfallsäcke
 
 ## Material
+
+## Ausgaben
+Feli:
+438.-
+
+Domi:
