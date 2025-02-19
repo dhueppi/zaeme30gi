@@ -136,16 +136,16 @@ feli und domi fiired ihre geburi
 - [ ] ...
 
 ## Getränke und Party
-- [ ] 100 Bier
-- [ ] 5 Aperol   < Landi
-- [ ] 5 Prosseco < Landi
+- [x] 100 Bier
+- [x] 5 Aperol   < Landi
+- [x] 12 Prosseco < Landi
 - [ ] 3 Kräuter
-- [ ] 2 Williams
+- [x] 2 Williams
 - [ ] 3 Cointrau
-- [ ] 3 Martini
+- [x] 3 Martini
 - [ ] 2 Cognac
 - [ ] 2 Tequila
-- [ ] 2 Vodka
+- [x] 2 Vodka
 - [ ] 4 Tomatensaft
 - [ ] Sellerie
 - [ ] Worchestersauce
