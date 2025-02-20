@@ -158,6 +158,8 @@ feli und domi fiired ihre geburi
 - [ ] WC Papier 
 - [ ] Küchenpapier 
 - [x] Abfallsäcke
+- [x] Schwäm
+- [x] Ludere
 
 ## Material
 
