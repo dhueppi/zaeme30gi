@@ -32,7 +32,7 @@ feli und domi fiired ihre geburi
 - Anzahl Personen: 7
 - Abend-Menü: Grillabend
     - [ ] Grillzeugs
-    - [ ] Chips
+    - [x] Chips
     - [ ] Brot
 
 ---
@@ -44,11 +44,11 @@ feli und domi fiired ihre geburi
 ### Donnerstag 27.02.2025
 - Anzahl Personen: 7
 - Abend-Menü: Älplermakkronen
-   - [ ] 1 kg Makkronen
+   - [x] 1 kg Makkronen
    - [ ] 1 kg Gummel
-   - [ ] 1 l Rahm
+   - [x] 1 l Rahm
    - [ ] 1 kg Zwiebeln
-   - [ ] 1 kg Parmesan
+   - [x] 1 kg Parmesan
 
 ---
 ### Freitag 28.02.2025
@@ -124,7 +124,7 @@ feli und domi fiired ihre geburi
 
 ## Zmorge für 30ig Leute
 - [x] Yogurt
-- [ ] Konfi
+- [x] Konfi
 - [ ] Cornflakes
 - [ ] Butter
 - [ ] UHT Milch
@@ -141,10 +141,11 @@ feli und domi fiired ihre geburi
 - [x] 3 Martini
 - [x] 2 Tequila
 - [x] 2 Vodka
-- [ ] 4 Tomatensaft
+- [x] 4 Tomatensaft
 - [ ] Sellerie
 - [ ] Worchestersauce
 - [ ] Zitronen
+- [ ] Salz
 - [ ] Limetten
 - [ ] Nüssli
 - [x] Chips
