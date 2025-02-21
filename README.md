@@ -9,26 +9,23 @@ feli und domi fiired ihre geburi
 ### Samstag 22.02.2025
 - Anzahl Personen: 25
 - Abend-Menü: Spaghetti Plausch
-    - [ ] 3 kg - Spaghetti
-    - [ ] 1 kg - Parmesan
-    - [ ] Tomatensauce
-    - [ ] Pestosauce
-    - [ ] chinquePsauce
+    - [x] 3 kg - Spaghetti
+    - [x] 1 kg - Parmesan
+    - [x] Tomatensauce
+    - [x] Pestosauce
  
 ---
 ### Sonntag 23.02.2025
 - Anzahl Personen: 28
 - Abend-Menü: Fondue
-    - [ ] 6 kg Fonduekäse
+    - [x] 6 kg Fonduekäse
     - [ ] 6 kg Brot
 
 ---
 ### Montag 24.02.2025
 - Anzahl Personen: 14
 - Abend-Menü: Risotto
-    - [ ] Safranrisotto
-    - [ ] Steinpilrisotto
-    - [ ] Tomatenrisotto
+    - [x] Tomatenrisotto
 
 ---
 ### Dienstag 25.02.2025
@@ -126,13 +123,13 @@ feli und domi fiired ihre geburi
 ---
 
 ## Zmorge für 30ig Leute
-- [ ] Yogurt
+- [x] Yogurt
 - [ ] Konfi
 - [ ] Cornflakes
 - [ ] Butter
 - [ ] UHT Milch
 - [ ] Cacaoupulver
-- [ ] Kaffepulver
+- [x] Kaffepulver
 - [ ] ...
 
 ## Getränke und Party
@@ -142,7 +139,7 @@ feli und domi fiired ihre geburi
 - [ ] 3 Kräuter
 - [x] 2 Williams
 - [x] 3 Martini
-- [ ] 2 Tequila
+- [x] 2 Tequila
 - [x] 2 Vodka
 - [ ] 4 Tomatensaft
 - [ ] Sellerie
@@ -150,11 +147,11 @@ feli und domi fiired ihre geburi
 - [ ] Zitronen
 - [ ] Limetten
 - [ ] Nüssli
-- [ ] Chips
-- [ ] Snacks
+- [x] Chips
+- [x] Snacks
 - [ ] ...
-- [ ] WC Papier 
-- [ ] Küchenpapier 
+- [x] WC Papier 
+- [x] Küchenpapier 
 - [x] Abfallsäcke
 - [x] Schwäm
 - [x] Ludere
@@ -164,5 +161,6 @@ feli und domi fiired ihre geburi
 ## Ausgaben
 Feli:
 438.-
+596.-
 
 Domi:
