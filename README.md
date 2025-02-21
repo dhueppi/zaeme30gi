@@ -133,6 +133,8 @@ feli und domi fiired ihre geburi
 - [ ] ...
 
 ## Getränke und Party
+- [ ] Früchte
+- [ ] Eisbergsalat 
 - [x] 100 Bier
 - [x] 5 Aperol   < Landi
 - [x] 12 Prosseco < Landi
