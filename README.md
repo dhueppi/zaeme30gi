@@ -141,9 +141,7 @@ feli und domi fiired ihre geburi
 - [x] 12 Prosseco < Landi
 - [ ] 3 Kräuter
 - [x] 2 Williams
-- [ ] 3 Cointrau
 - [x] 3 Martini
-- [ ] 2 Cognac
 - [ ] 2 Tequila
 - [x] 2 Vodka
 - [ ] 4 Tomatensaft
