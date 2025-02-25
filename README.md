@@ -163,7 +163,8 @@ feli und domi fiired ihre geburi
 
 ## Ausgaben
 Feli:
-438.-
-596.-
+- 438.-
+- 596.-
+- 96.-
 
 Domi:
