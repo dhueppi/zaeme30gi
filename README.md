@@ -174,6 +174,7 @@ Domi:
 
 ## Einnahmen
 Feli:
+- 260.-
 
 Domi:
 
